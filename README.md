@@ -31,7 +31,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 - **Solution URL:** [https://github.com/Amishka-Sayyid/QR-code-component](#)
 
-- **Live Site URL:** [Add live site URL here](#)
+- **Live Site URL:** [ live site URL here](#)
 
 ---
 
